@@ -1,5 +1,9 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
+# ⚠️ This template is old and outdated ⚠️
+
+Please use **[ttsky-verilog-template](https://github.com/TinyTapeout/ttsky-verilog-template)** for new projects.
+
 # Tiny Tapeout Verilog Project Template
 
 - [Read the documentation for project](docs/info.md)
